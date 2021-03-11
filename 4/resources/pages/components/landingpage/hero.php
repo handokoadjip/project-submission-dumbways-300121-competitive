@@ -1,0 +1,2 @@
+<div class="jumbotron jumbotron-fluid _image-opacity" style="height:300px;background-image: url(https://www.mcpsmt.org/cms/lib/MT01001940/Centricity/ModuleInstance/18374/large/Elementary%20Classroom.jpg);   background-position: center;">
+</div>

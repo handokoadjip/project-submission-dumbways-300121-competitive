@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap');
+// font-family: 'Playfair Display', serif;
+body {
+  font-family: 'Assistant', sans-serif;
+}
+
+.shadow {
+  box-shadow: 0 2px 5px rgba($color: #000000, $alpha: 0.1);
+}
+
+._slider-after::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(120deg, #eaee44, #33d0ff);
+  opacity: .4;
+  
+  ._slider-image {
+    height:1000vh; 
+    object-fit:cover;
+  }
+}
+
+._image-opacity {
+  opacity: .8;
+}
+.title {
+  font-family: 'Playfair Display', serif;
+}
