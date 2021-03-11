@@ -5,7 +5,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjipangestu/project-dumbways-300121-test/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The project is intended for the Dumbways bootcamp batch 21 selection test on January 30, 2020
+The project is intended for the Dumbways bootcamp batch 21 selection test on January 30, 2021
 
 1 folder consists of 3 logical source codes and 1 CRUD source code with `native PHP`. For the CRUD section or question number 4 it is made with folder because there are many supporting files to make the website intact and for the query that is instructed is already file name `4.query.txt` in folder 4.
 
