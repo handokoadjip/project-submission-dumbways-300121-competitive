@@ -26,21 +26,21 @@ Just fork or download it from this repository then copy it to htdocs directory. 
 
 ### 1.php (Home Purchase)
 
-![Home Purchase](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/1.png)
+![Home Purchase](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/1.png?)
 
 ### 2.php (Count Character)
 
-![Count Character](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/2.png)
+![Count Character](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/2.png?)
 
 ### 3.php (Hollow Diamond)
 
-![Count Character](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/3.png)
+![Count Character](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/3.png?)
 
 ### 4 (School)
 
-![Home](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/4-home.png)
+![Home](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/4-home.png?)
 
-![Dashboard](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/4-dashboard.png)
+![Dashboard](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/4-dashboard.png?)
 
 _For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadjip/)._
 
