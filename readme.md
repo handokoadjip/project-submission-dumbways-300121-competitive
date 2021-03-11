@@ -1,8 +1,8 @@
 # Dumbways Batch 21
 
-[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://github.com/handokoadjipangestu/project-dumbways-300121-test)
-[![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/handokoadjipangestu/project-dumbways-300121-test)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjipangestu/project-dumbways-300121-test/fork)
+[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://github.com/handokoadjipangestu/project-submission-dumbways-300121)
+[![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/handokoadjipangestu/project-submission-dumbways-300121)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjipangestu/project-submission-dumbways-300121/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The project is intended for the Dumbways bootcamp batch 21 selection test on January 30, 2021
@@ -26,21 +26,21 @@ Just fork or download it from this repository then copy it to htdocs directory. 
 
 ### 1.php (Home Purchase)
 
-![Home Purchase](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/1.png?)
+![Home Purchase](http://bebaskripsi.000webhostapp.com/project-submission-dumbways-300121/1.png?)
 
 ### 2.php (Count Character)
 
-![Count Character](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/2.png?)
+![Count Character](http://bebaskripsi.000webhostapp.com/project-submission-dumbways-300121/2.png?)
 
 ### 3.php (Hollow Diamond)
 
-![Count Character](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/3.png?)
+![Count Character](http://bebaskripsi.000webhostapp.com/project-submission-dumbways-300121/3.png?)
 
 ### 4 (School)
 
-![Home](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/4-home.png?)
+![Home](http://bebaskripsi.000webhostapp.com/project-submission-dumbways-300121/4-home.png?)
 
-![Dashboard](http://bebaskripsi.000webhostapp.com/project-dumbways-300121-test/4-dashboard.png?)
+![Dashboard](http://bebaskripsi.000webhostapp.com/project-submission-dumbways-300121/4-dashboard.png?)
 
 _For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadjip/)._
 
@@ -63,7 +63,7 @@ $database = '{yourDatabaseName}';
 #### line 9
 
 ```sh
-$base_url = 'http://localhost/project-learn/dumbways/project-dumbways-300121-test/4';
+$base_url = 'http://localhost/project-learn/dumbways/project-submission-dumbways-300121/4';
 ```
 
 to :
@@ -87,7 +87,7 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/handokoadjipangestu/project-dumbways-300121-test/fork>)
+1. Fork it (<https://github.com/handokoadjipangestu/project-submission-dumbways-300121/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)

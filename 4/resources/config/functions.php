@@ -6,7 +6,7 @@ $username = 'root';
 $password = '';
 $database = '2021_project_dumbways';
 
-$base_url = 'http://localhost/project-learn/dumbways/project-dumbways-300121-test/4';
+$base_url = 'http://localhost/project-learn/dumbways/project-submission-dumbways-300121/4';
 
 $conn = mysqli_connect($host, $username, $password, $database);
 
