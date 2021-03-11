@@ -63,7 +63,7 @@ $database = '{yourDatabaseName}';
 #### line 9
 
 ```sh
-$base_url= 'http://localhost/dumbways/4';
+$base_url = 'http://localhost/project-learn/dumbways/project-dumbways-300121-test/4';
 ```
 
 to :
