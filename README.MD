@@ -10,7 +10,6 @@ The project is intended for the Dumbways bootcamp batch 21 selection test on Jan
 1 folder consists of 3 logical source codes and 1 CRUD source code with `native PHP`. For the CRUD section or question number 4 it is made with folder because there are many supporting files to make the website intact and for the query that is instructed is already file name `4.query.txt` in folder 4.
 
 This project was made using native PHP and for appearance it uses a [Bootstrap 4.\*](https://getbootstrap.com/docs/4.0/getting-started/introduction/) framework with [AdminLTE](https://adminlte.io/) template.
-.
 
 For those who want to contribute, just fork or download as usual!
 
